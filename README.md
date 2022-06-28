@@ -5,6 +5,7 @@ Storing Document in a Decentralized File System using IPFS
 1. VS Code
 2. Python3
 3. git
+4. ipfs desktop
 
 # Packages
 1. pip install ipfsApi
